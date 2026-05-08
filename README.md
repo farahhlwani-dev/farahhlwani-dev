@@ -6,6 +6,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Farah%20Hlwani%20%E2%80%A2%20%D9%81%D8%B1%D8%AD%20%D8%AD%D9%84%D9%88%D8%A7%D9%86%D9%8A&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Robotics%20Trainer%20%7C%20Computer%20Engineering%20Student&descAlignY=55&descSize=16" />
 
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Robot" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Code+%7C+Teach+%7C+Innovate+%E2%9A%A1" alt="Welcome" />
+
 </div>
 
 ---
@@ -22,6 +30,7 @@ $ echo "Hello, World! 👩‍💻🤖"
 - ⚡ **Trainer & Leader** at [BinaryTeam](https://www.instagram.com/binary_team_10?igsh=d2ZlYjRhYm8zOXg0) — empowering the next generation of developers
 - 🤖 **Telegram Bot Developer** — building smart bots with Python
 - 🏆 **Robotics Projects** — hands-on projects in embedded systems & automation
+- 🐧 **Linux User** — comfortable working in Linux environments
 
 ---
 
@@ -47,6 +56,7 @@ $ echo "Hello, World! 👩‍💻🤖"
 <p align="left">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ### 🤖 Bots & Automation
