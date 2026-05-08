@@ -1,37 +1,126 @@
-<h1 align="center">🤖 Farah Hlwani | فرح حلواني</h1>
+<div align="center">
 
-<h3 align="center">
-Frontend Developer • Robotics Trainer • Telegram Bot Developer
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Farah+Hlwani+%F0%9F%91%8B;Frontend+Developer+%26+Robotics+Trainer;Arduino+%26+Embedded+Systems+Instructor;BinaryTeam+Leader+%E2%9A%A1" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C83FF&center=true&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%92%BB;Robotics+%26+Arduino+Trainer+%F0%9F%A4%96;Telegram+Bot+Developer+%F0%9F%93%B2;AI+Tools+User+%F0%9F%A7%A0;Computer+Engineering+Student+%F0%9F%8E%93" alt="Typing SVG" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="120"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Farah%20Hlwani%20%E2%80%A2%20%D9%81%D8%B1%D8%AD%20%D8%AD%D9%84%D9%88%D8%A7%D9%86%D9%8A&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Robotics%20Trainer%20%7C%20Computer%20Engineering%20Student&descAlignY=55&descSize=16" />
 
-<p align="center">
-  
+</div>
+
+---
+
+## 💡 About Me
+
 ```bash
 $ echo "Hello, World! 👩‍💻🤖"
-🎓 Computer Engineering Student @ University of Damascus
-💻 Frontend Developer — building modern & interactive web experiences
-🤖 Robotics Trainer & Arduino Instructor — shaping future makers
-📲 Telegram Bot Developer using Python
-🧠 Using AI tools like ChatGPT & Claude to boost productivity
-⚡ Trainer & Team Leader at BinaryTeam
-🌍 Based in Syria 🇸🇾
-<p align="left"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> </p>
+```
 
-<p align="left"> <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/AI%20Prompting-111827?style=for-the-badge&logo=googlebard&logoColor=white"/> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=farahhlwani-dev&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farahhlwani-dev&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
-<p align="left"> <a href="https://www.linkedin.com/in/farah-hlwani-628b35404" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/farahhlwani-dev" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.instagram.com/binary_team_10?igsh=d2ZlZjRhYm8zOXg0" target="_blank"> <img src="https://img.shields.io/badge/BinaryTeam-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=farahhlwani-dev&color=7C83FF&style=flat-square"/>
+- 🎓 **Computer Engineering Student** @ [University of Damascus](https://www.damascusuniversity.edu.sy/) — Computer Systems specialization
+- 💻 **Frontend Developer** — building modern, interactive web experiences
+- 🤖 **Robotics Trainer & Arduino Instructor** — shaping future makers
+- ⚡ **Trainer & Leader** at [BinaryTeam](https://www.instagram.com/binary_team_10?igsh=d2ZlYjRhYm8zOXg0) — empowering the next generation of developers
 
-<br><br>
+---
 
-⭐ <em>Feel free to explore my repositories and star what you like!</em>
+## 🛠️ Tech Stack
 
-</p> ```
+### 🌐 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### 🗃️ Backend & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### 🤖 Hardware & IoT
+<p align="left">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+</p>
+
+---
+
+## 🎯 What I Do
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+      <br/><strong>Frontend Dev</strong>
+      <br/><sub>React · JS · HTML/CSS</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
+      <br/><strong>Robotics Trainer</strong>
+      <br/><sub>Arduino & Embedded Systems</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/48/teacher.png" width="40" height="40"/>
+      <br/><strong>Course Instructor</strong>
+      <br/><sub>Teaching & Mentoring</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/48/lightning-bolt.png" width="40" height="40"/>
+      <br/><strong>BinaryTeam Leader</strong>
+      <br/><sub>Team Lead & Trainer</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=farahhlwani-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farahhlwani-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=farahhlwani-dev&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=farahhlwani-dev&theme=tokyonight&no-frame=true&column=7)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farah-hlwani-628b35404)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farahhlwani-dev)
+[![Instagram](https://img.shields.io/badge/BinaryTeam-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/binary_team_10?igsh=d2ZlYjRhYm8zOXg0)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+
+⭐ **Feel free to explore my repos & star what you like!**
+
+</div>
