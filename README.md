@@ -20,6 +20,8 @@ $ echo "Hello, World! 👩‍💻🤖"
 - 💻 **Frontend Developer** — building modern, interactive web experiences
 - 🤖 **Robotics Trainer & Arduino Instructor** — shaping future makers
 - ⚡ **Trainer & Leader** at [BinaryTeam](https://www.instagram.com/binary_team_10?igsh=d2ZlYjRhYm8zOXg0) — empowering the next generation of developers
+- 🤖 **Telegram Bot Developer** — building smart bots with Python
+- 🏆 **Robotics Projects** — hands-on projects in embedded systems & automation
 
 ---
 
@@ -45,6 +47,13 @@ $ echo "Hello, World! 👩‍💻🤖"
 <p align="left">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+</p>
+
+### 🤖 Bots & Automation
+<p align="left">
+  <img src="https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/python--telegram--bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
 
 ---
@@ -73,6 +82,20 @@ $ echo "Hello, World! 👩‍💻🤖"
       <br/><strong>BinaryTeam Leader</strong>
       <br/><sub>Team Lead & Trainer</sub>
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+      <br/><strong>Telegram Bot Dev</strong>
+      <br/><sub>Python-powered bots</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/48/robot-2.png" width="40" height="40"/>
+      <br/><strong>Robotics Projects</strong>
+      <br/><sub>Embedded & Automation</sub>
+    </td>
+    <td align="center" width="200"></td>
+    <td align="center" width="200"></td>
   </tr>
 </table>
 
